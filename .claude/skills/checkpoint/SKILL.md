@@ -7,9 +7,5 @@ description: Phase gate for my GenAI roadmap. Verify the phase metric, test my u
 2. **Concept check:** ask me to explain 3 concepts from the phase's checklist in `docs/roadmap.md`, one at a time. Be strict. Log misses in `docs/questions.md`.
 3. **Open questions:** review unresolved items in `docs/questions.md` for this phase.
 4. **Update (ask first):** `docs/progress.md` (phase, week, next step, metrics table, dated log entry) and `docs/decisions.md` if a design choice was made.
-5. **Post (if the phase has one):** draft to `posts/<phase>-<slug>.md` in three cuts:
-   - LinkedIn: hook line, problem, what I tried, before→after number, one lesson, link. ≤1,300 chars. No hashtag spam, no emoji walls.
-   - X: thread of 4-6 posts, same arc.
-   - Blog: outline plus key code snippet and results table.
-   Use only real numbers from `evals/results/`. Never invent results.
+5. **Post (if the phase has one):** read `../blog/STYLE.md` first and follow it exactly. Draft from `docs/journal.md` into `../blog/drafts/<date>-<slug>.md` (blog post, plus LinkedIn and X cuts at the bottom). Use only real numbers from `evals/results/`; never invent results. Leave the title, opening and verdict marked `TODO(Param)` for me to rewrite in my own voice.
 6. End with one line: the next phase's first step.

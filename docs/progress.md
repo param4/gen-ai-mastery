@@ -1,9 +1,10 @@
 # Progress
 
+**Active: interview sprint, see `docs/sprint-plan.md` (takes priority over the roadmap until done).**
 **Current phase:** P0 (Setup + LLM foundations)
 **Week:** 1 (starts 2026-10-12)
-**Last updated:** 2026-10-09
-**Next step:** watch Karpathy's "Intro to LLMs" (1h), then `/drill target repos`.
+**Last updated:** 2026-10-21
+**Next step:** sprint block 1: balanced dataset (100/label), then the classifier.
 **Blocked on:** none
 
 ## Metrics so far
